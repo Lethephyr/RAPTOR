@@ -1,0 +1,3 @@
+[submodule "ref/raytracinginoneweekendincuda"]
+	path = ref/raytracinginoneweekendincuda
+	url = https://github.com/rogerallen/raytracinginoneweekendincuda.git
